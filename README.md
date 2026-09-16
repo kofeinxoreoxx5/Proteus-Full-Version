@@ -268,4 +268,4 @@ This repository serves as the official landing page for Proteus. The software is
 **Get the most recent version of Proteus today!**
 
 ---
-**Last updated:** 2026-09-15 23:16:59 UTC
+**Last updated:** 2026-09-16 02:09:38 UTC
